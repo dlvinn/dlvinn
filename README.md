@@ -1,6 +1,7 @@
 # Hi there, I'm Dlvin! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=dlvinn&color=red)
+
+![Profile Views](https://komarev.com/ghpvc/?username=dlvin&style=flat-square&color=blue)
 
 ## About Me
 
@@ -22,3 +23,12 @@ I am a passionate Frontend Web Developer with a knack for crafting beautiful and
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![English](https://img.shields.io/badge/-English-007396?style=flat-square&logoColor=white)
 ![Kurdish Sorani](https://img.shields.io/badge/-Kurdish%20Sorani-FFDC00?style=flat-square&logoColor=black)
+
+## Get in Touch
+
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dlvin.hafeez@icloud.com)
+
+“Do not go where the path may lead, go instead where there is no path and leave a trail.” – Ralph Waldo Emerson
+
+
