@@ -16,11 +16,6 @@ Welcome to my GitHub! I'm a software engineer passionate about building innovati
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-## 🚀 Current Projects
-
-- **🎬 AI-Powered Video Generator** - Creating a tool that transforms text prompts into dynamic video content using generative AI models
-- **🗣️ Language Learning App** - Developing an application to help users learn the transition between Iraqi Arabic and Kurdish with natural language processing
-
 ## 🌱 What I'm Learning
 
 Currently diving deeper into:
@@ -36,11 +31,3 @@ Currently diving deeper into:
 ## 🤝 Let's Connect!
 
 I'm always open to interesting conversations and collaboration opportunities.
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
----
-
-💬 *"The best way to predict the future is to invent it."* — Alan Kay
