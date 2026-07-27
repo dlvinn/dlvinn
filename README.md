@@ -18,8 +18,8 @@ Currently, I'm working on enterprise-level platforms and exploring how generativ
 ### [Sarsam.app](#)
 A multi-tenant language learning platform specifically tailored for Kurdish and Arabic (Iraqi dialect) users. Built with a focus on seamless localization and a robust backend architecture.
 
-### [SupremeIQ & SupremeVox](#)
-Enterprise-grade Integrated Management Systems developed for Supreme Veritas Limited. These platforms handle complex data flows, work permit modules, and internal company operations.
+### [Sarsam iq and sarsam vox](#)
+Enterprise-grade Integrated Management Systems developed for iso management processes. These platforms handle complex data flows, work permit modules, and internal company operations. on [iq.sarsam.app]#. 
 
 ### [Jujela](#)
 An educational YouTube channel dedicated to Kurdish children. I utilize advanced AI tools to generate scripts, music, and 3D animations that teach the Kurdish alphabet, shapes, and cultural values.
